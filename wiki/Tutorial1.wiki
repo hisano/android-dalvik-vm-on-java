@@ -1,4 +1,4 @@
-#summary Tutorial1: How to run a program
+#summary How to run a program
 #labels tutorial
 
 = Introduction =
