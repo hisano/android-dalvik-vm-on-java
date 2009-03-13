@@ -1,4 +1,4 @@
-#summary change history
+#summary Change history of this project
 
 = March 16, 2009 =
   * Released 0.1 as open source
