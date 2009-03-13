@@ -26,7 +26,7 @@
   * Supported exception
 
 = February 16, 2009 =
-  * Developed base code
+  * Developed base code using [http://www.ubion.co.jp/business/cozyvm.html Cozy VM]
   * Added int instructions
 
 = February 14, 2009 =
