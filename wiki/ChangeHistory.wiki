@@ -1,7 +1,7 @@
 #summary Change history of this project
 
 = March 16, 2009 =
-  * Released 0.1 as open source
+  * Released 0.8(alpha version) as open source
 
 = February 19, 2009 =
   * Added float instructions
@@ -26,7 +26,7 @@
   * Supported exception
 
 = February 16, 2009 =
-  * Developed base code using [http://www.ubion.co.jp/business/cozyvm.html Cozy VM]
+  * Developed base code
   * Added int instructions
 
 = February 14, 2009 =
