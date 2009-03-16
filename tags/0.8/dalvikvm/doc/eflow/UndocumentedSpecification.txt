@@ -1,0 +1,15 @@
+「Dalvik VMの実装から」
+・shl-long, shr-long, ushr-longの第二項は0x3Fでマスク
+・三次元以上の配列は"型クラス名.TYPE"クラスフィールド + java.lang.reflect.Array#newInstanceクラスメソッドを用いてインスタンス生成
+・filled-new-array命令はint型の一元配列のみサポート
+・fill-array-data命令はint型の一元配列のみサポート
+
+「仕様書の誤り」
+・cmpkind vAA, vBB, vCCの項には「1 if the second argument is larger, or -1 if the first argument is larger」と書かれているが1と-1が逆
+
+「注意点」
+・nullは0の定数としてレジスタにロード
+・float、double型の定数はビット列としてロード
+
+「要調査」
+・iget-**、ipush-**、sget-**、spush-**の型情報は必要ないはずでは？
