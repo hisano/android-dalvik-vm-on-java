@@ -1,0 +1,31 @@
+P905i (500MHz - UniPhier 4M + JBlend)
+　Sieve: 1569
+　Loop: 2421
+　Logic: 2251
+　String: 5109
+　Float: 973
+　Method: 830
+　Overall: 1811
+Spec sheet:
+http://ja.wikipedia.org/wiki/P905i
+http://panasonic.co.jp/corp/news/official.data/data.dir/jn080716-2/jn080716-2.html
+
+Google Dev Phone 1 (528MHz - MSM7201A)
+　Sieve: 464
+　Loop: 551
+　Logic: 394
+　String: 491
+　Float: 336
+　Method: 397
+　Overall: 433
+Spec sheet:
+http://en.wikipedia.org/wiki/Google_phone
+
+P905i (Java Dalvik VM on JBlend)
+　Sieve: 6
+　Loop: 3
+　Logic: 26
+　String: 85
+　Float: 3
+　Method: 6
+　Overall: 9
